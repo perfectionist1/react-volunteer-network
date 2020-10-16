@@ -1,0 +1,21 @@
+.register-user-top{
+    background-color: #F8FAFC;
+    height: 630px;
+}
+
+h5{
+    font-weight: 700;
+}
+p{
+    font-weight: 700;
+}
+
+.user-item-position{
+    position: relative;
+}
+
+.button-position{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
